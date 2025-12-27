@@ -1,3 +1,9 @@
 [submodule "piranha"]
 	path = piranha
 	url = https://github.com/umn-ece-sartorilabs/piranha.git
+[submodule "MOTION"]
+	path = MOTION
+	url = https://github.com/umn-ece-sartorilabs/MOTION.git
+[submodule "MP-SPDZ"]
+	path = MP-SPDZ
+	url = https://github.com/umn-ece-sartorilabs/MP-SPDZ.git
